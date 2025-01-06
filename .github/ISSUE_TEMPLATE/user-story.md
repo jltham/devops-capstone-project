@@ -1,12 +1,3 @@
----
-name: User story
-about: User story template
-title: ''
-labels: ''
-assignees: jltham
-
----
-
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
